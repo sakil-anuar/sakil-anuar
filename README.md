@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Sakil Anuar</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=🚀+Passionate+CSE+Student;📊+Data+Science+%26+AI+Explorer;🧠+Problem+Solver&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=+Passionate+CSE+Student;+Data+Science+%26+AI+Explorer;+Problem+Solver&center=true&width=550&height=50">
 </h3>
 
 ## 👨‍💻 About Me
